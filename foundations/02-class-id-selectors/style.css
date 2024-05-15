@@ -1,0 +1,20 @@
+.classy {
+    background-color: lightcoral;
+    font-size: x-large;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.cooler {
+    font-size: xx-large;
+}
+
+#blank {
+    background-color: transparent;
+    color: blue;
+    font-size: 70px;
+}
+#go {
+    background-color: lightgreen;
+    font-size: xx-large;
+    font-weight: bold;
+}
